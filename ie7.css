@@ -1,0 +1,33 @@
+.main-navigation,.main-small-navigation{
+	max-width:1040px!important;
+	width:141%!important;
+	
+}
+
+.site-logo{
+	text-align:left!important;
+}
+
+
+#tagline{
+	 float:left!important;
+	 margin-left:275px!important;
+	 margin-top:-40px!important;
+}
+
+.site-info p,.site-info a{
+	font-size:0.8em!important;
+}
+
+.page-title{
+	font-size:27px!important;
+	font-weight:normal;
+	margin-top:-3px!important;
+}
+.soliloquy-container{
+height:600px!important;
+width:1040px!important;
+}
+
+
+
